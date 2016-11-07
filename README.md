@@ -13,3 +13,4 @@ CMS should implement.
 * Fullscreen video slide
 * Upcoming events
 * Featured sponsor
+* Latest Facebook mentions, reviews, posts
