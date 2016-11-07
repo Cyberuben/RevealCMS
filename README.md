@@ -1,5 +1,5 @@
 # RevealCMS
-A simple CMS for Reveal.js presentation framework to allow usage as Narrowcasting system. Based on CodeIgniter
+A simple CMS for [Reveal.js](https://github.com/hakimel/reveal.js/) presentation framework to allow usage as Narrowcasting system. Based on CodeIgniter
 
 # Why
 It has come to my attention that there isn't a simple Narrowcasting solution 
